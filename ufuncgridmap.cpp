@@ -1,6 +1,6 @@
 /***************************************************************************
- *   Copyright (C) 2005 by Christian Andersen and DTU                      *
- *   jca@oersted.dtu.dk                                                    *
+ *   Copyright (C) 2018 by Hjalte Bested Møller and DTU                    *
+ *   hjalte.moller@gmail.com                                               *
  *                                                                         *
  *   This program is free software; you can redistribute it and/or modify  *
  *   it under the terms of the GNU General Public License as published by  *

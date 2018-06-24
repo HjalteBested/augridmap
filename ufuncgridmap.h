@@ -1,6 +1,6 @@
 /***************************************************************************
- *   Copyright (C) 2005 by Christian Andersen and DTU                             *
- *   jca@oersted.dtu.dk                                                    *
+ *   Copyright (C) 2018 by Hjalte Bested Møller and DTU                    *
+ *   hjalte.moller@gmail.com                                               *
  *                                                                         *
  *   This program is free software; you can redistribute it and/or modify  *
  *   it under the terms of the GNU General Public License as published by  *
@@ -32,9 +32,8 @@
 ////////////////////////////////////////////////////////
 
 /**
- * Laserscanner function to demonstrate
- * simple laser scanner data handling and analysis
- * @author Christian Andersen
+ * Laserscanner plugin for mapping and planning and solving one-way labyrinths
+ * @author Hjalte Bested Møller
 */
 class UFuncGridMap : public UFuncLaserBase
 {
